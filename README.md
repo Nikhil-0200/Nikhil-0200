@@ -1,3 +1,4 @@
+![logo](https://github.com/Nikhil-0200/Nikhil-0200/blob/main/1080x360.jpg)
 <h1 align="center">👋 Hello, I'm Nikhil Tiwari!</h1>
 <h3 align="center">I'm a 23-year-old Software Developer and a student at MASAI Institute. My journey has encompassed diverse experiences, from handling business operations and documentation management to delving into the world of software development.</h3>
 
