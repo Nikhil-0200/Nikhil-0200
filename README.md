@@ -14,6 +14,7 @@ I'm a **Full Stack Web Developer** passionate about learning new technologies an
 
 - 💪 I’m a gym freak who loves to work out and play sports.
 - 💬 Ask me about HTML, CSS, JS, React, Node, Express, MongoDB.
+- 📙 Check out my [Resume](https://nikhiltiwari-portfoli.netlify.app/pdf/Nikhil%20Tiwari%20Resume.pdf)
 
 ### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
