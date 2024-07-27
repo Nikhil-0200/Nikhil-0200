@@ -21,7 +21,7 @@
 <h2 align="center"> 👽 About Me</h2>
 <h4 align='center'>👋 Hello! I’m a Full Stack Developer with a passion for building user-friendly and efficient web applications. On my GitHub, you'll find a variety of projects and code samples showcasing my skills in both front-end and back-end development.
 <br></br>
-I work with the MERN stack (MongoDB, Express.js, React.js, Node.js) and am dedicated to creating high-quality, scalable applications. I’m always eager to learn and grow in my field.</h4>
+I work with the MERN stack (MongoDB, Express.js, React.js, Node.js) and am dedicated to create high-quality, scalable applications. I’m always eager to learn and grow in my field.</h4>
 
 <h4>💼 What I do:</h4>
 <p align="justify">I build interactive front-end interfaces with React.js and develop server-side applications using Node.js and Express.js. I also work with MongoDB for database management and Redux for state management.</p>
